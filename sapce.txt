@@ -1,5 +1,6 @@
 ddb_one
 low: 62.78MB
+mid: 133.7MB
 
 psql
 
