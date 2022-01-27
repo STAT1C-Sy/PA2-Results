@@ -4,5 +4,10 @@ mid: 133.7MB
 high: 850.2MB
 
 psql
+vvh: 6.036GB
 
 ddb_one
+low: 56.08MB
+mid: 74.33MB
+high: 266.7MB
+vh: 1.23 GB
