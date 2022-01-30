@@ -2,6 +2,7 @@ ddb_two
 low: 62.78MB
 mid: 133.7MB
 high: 850.2MB
+vh: 4.361 GB
 
 psql
 vvh: 6.036GB
